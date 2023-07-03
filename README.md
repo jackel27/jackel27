@@ -28,6 +28,11 @@ I'm a passionate self-taught full-stack developer based in Yelm, WA. Having grad
 
 Here are some of recent projects I've been working on:
 
+- **YouTube-Watch-Party**: A full-stack Vue app to create, join rooms and watch youtube videos together, in sync:
+  - **Backend**: NodeJS, Express, Socket.io
+  - **Frontend**: Vue.js, CSS, Socket.io Client, Bootstrap, JavaScript
+  - It features user chat, notifications, video syncing, video controls etc... [View on GitHub]([https://github.com/jackel27/portfolio-Java-Spring-mySQL](https://github.com/jackel27/YouTube-Watch-Party))
+
 - **E-Commerce Application**: A full-stack e-commerce application built with:
   - **Backend**: Java, Spring Boot, MySQL
   - **Frontend**: Vue.js, CSS, Bootstrap, JavaScript

@@ -1,6 +1,6 @@
 # Hi, I'm David Kaiser! 👋
 
-I'm a passionate self-taught full-stack developer based in Yelm, WA. Having graduated with a bachelor's degree in Information Technology (Concentration in Business Systems Analysis), I am deeply interested in how technology can be leveraged to solve business problems and create delightful experiences for users. I specialize in Java and Vue.js and am continuously honing my skills in these areas.
+I'm a passionate self-taught full-stack developer based in Yelm, WA. Having graduated with a bachelor's degree in Information Technology (Concentration in Business Systems Analysis), I am deeply interested in how technology can be leveraged to solve business problems and create delightful experiences for users. I specialize in JavaScript with frameworks: React and Vue.js and am continuously honing my skills in these areas.
 
 ## 🚀 Skills
 

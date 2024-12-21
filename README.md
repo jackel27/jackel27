@@ -1,5 +1,10 @@
 # Hi, I'm David Kaiser! 👋
+-- Currently using Kotlin! learning, and actually liking it... a lot.. No JavaScript for now. Off to learn new things! (For your convienance, here's some old info about me below)
 
+
+
+
+*Old Info Here*
 I'm a passionate self-taught full-stack developer based in Yelm, WA. Having graduated with a bachelor's degree in Information Technology (Concentration in Business Systems Analysis), I am deeply interested in how technology can be leveraged to solve business problems and create delightful experiences for users. I specialize in JavaScript with frameworks: React and Vue.js and am continuously honing my skills in these areas.
 
 ## 🚀 Skills

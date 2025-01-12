@@ -1,5 +1,6 @@
-# Hi, I'm David Kaiser! 👋
--- Currently using Kotlin! learning, and actually liking it... a lot.. No JavaScript for now. Off to learn new things! (For your convienance, here's some old info about me below)
+# well, scratch Kotlin, back to my good JS and Py.
+
+
 
 
 
